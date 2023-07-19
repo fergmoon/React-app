@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.data{
+  /* background-color: blue; */
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+.item{
+  border-style: ridge;
+  flex:1;
+  
+}
